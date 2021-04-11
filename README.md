@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+
+Hi my name is Gustav.
+I wanna learn programming and better my skills in Computer Science.
